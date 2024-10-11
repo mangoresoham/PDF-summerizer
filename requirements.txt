@@ -1,0 +1,6 @@
+pdfplumber
+streamlit
+sumy
+nltk
+keybert
+pymongo
