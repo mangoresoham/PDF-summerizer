@@ -14,7 +14,7 @@ from pymongo.server_api import ServerApi
 from bson.objectid import ObjectId  # Import ObjectId
 
 # MongoDB connection string
-uri = "mongodb+srv://mangoresoham:1Fb7vLgqdCkKd54t@summarizer.7kjk7.mongodb.net/?retryWrites=true&w=majority&appName=summarizer"
+uri = "YOUR_API_KEY"
 
 # Create a new client and connect to the server
 client = MongoClient(uri, server_api=ServerApi('1'))
